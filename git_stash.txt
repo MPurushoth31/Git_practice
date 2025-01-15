@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 this is another example for stash commandnow some text added
+=======
+this is another example for stash command
+>>>>>>> Stashed changes
